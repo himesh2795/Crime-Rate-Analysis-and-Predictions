@@ -1,4 +1,4 @@
-# Crime Rate in chicago
+# Crime Rate in Chicago Predicition - Machine Learning
 
 - **Project Description**:
       The Chicago Crime dataset contains a summary of the reported crimes occurred in the City of Chicago from 2005 to 2017.

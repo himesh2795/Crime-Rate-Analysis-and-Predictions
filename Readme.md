@@ -6,8 +6,8 @@
 
 
 - **Problem Statement**:
-    1. Show the top 15 types of crime
-    2. Show the top 15 locations of crime
+    1. Show the top 15 crimes
+    2. Show the top 15 locations for crimes
     3. Show crimes on Yearly, Monthly and Quartely bases
     4. Predict monthly crime rates for next 1 year and 2 years if the same trend of crime continous?
 
